@@ -1,4 +1,5 @@
-"""
+""" Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+
 main.py
 
 The code in this file runs the matrix communication games (MCGs), used in the paper:

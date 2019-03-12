@@ -1,4 +1,5 @@
-"""
+""" Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+
 eval.py
 
 The code in this file provides the evaluation functions used to calculate various metrics measuring the emergence

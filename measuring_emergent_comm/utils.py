@@ -1,4 +1,5 @@
-"""
+""" Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+
 utils.py
 
 This file provides various utility functions used for running matrix communication games (MCGs)

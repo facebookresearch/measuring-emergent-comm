@@ -1,4 +1,5 @@
-"""
+""" Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+
 models.py
 
 The code in this file provides the classes for reinforcement learning (RL) algorithms that can play

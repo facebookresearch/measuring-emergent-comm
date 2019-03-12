@@ -1,4 +1,5 @@
-"""
+""" Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+
 mcg.py
 
 The code in this file contains the definition of matrix communication games (MCGs).
